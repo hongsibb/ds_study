@@ -1,0 +1,681 @@
+{
+  "groupedData": {
+    "2025-01-22:0": {
+      "date_gameMode": "2025-01-22:0",
+      "title": "SitAndGo",
+      "gameIds": [],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 0,
+          "notStartedGameIds": [],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 0,
+            "Ring": 0,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 2,
+            "SevenDeuce": 0,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 0,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-01-22:1": {
+      "date_gameMode": "2025-01-22:1",
+      "title": "Tournament",
+      "gameIds": [
+        "T_FZSb1dWd1ZHswLZJZcqcmyi6KpYUyu"
+      ],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [
+            "T_FZSb1dWd1ZHswLZJZcqcmyi6KpYUyu"
+          ],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [
+            "3"
+          ],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 1,
+          "notStartedGameIds": [
+            "T_FZSb1dWd1ZHswLZJZcqcmyi6KpYUyu"
+          ],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 0,
+            "Ring": 0,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 2,
+            "SevenDeuce": 0,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 1,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [
+            "3"
+          ],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-01-22:2": {
+      "date_gameMode": "2025-01-22:2",
+      "title": "Ring",
+      "gameIds": [
+        "KkL0asUOFEK1hJQuoAvIO9RI4DHere0i",
+        "KgoKm6KYB1GOGMdQxA9R8Iw2qyf15sQ3",
+        "pBwPpFf3AY13e60foe2lBoSnhYJERfOa",
+        "ovViZNqwl1M7meg4bPjCrkdtjkRZQyoi",
+        "Lobpk9TMXUoeO8okWqEsJ2NxNkgn6NcX"
+      ],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [
+            "KkL0asUOFEK1hJQuoAvIO9RI4DHere0i",
+            "KgoKm6KYB1GOGMdQxA9R8Iw2qyf15sQ3",
+            "pBwPpFf3AY13e60foe2lBoSnhYJERfOa",
+            "ovViZNqwl1M7meg4bPjCrkdtjkRZQyoi",
+            "Lobpk9TMXUoeO8okWqEsJ2NxNkgn6NcX"
+          ],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [
+            "54",
+            "52",
+            "3",
+            "45"
+          ],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 5,
+          "notStartedGameIds": [
+            "KkL0asUOFEK1hJQuoAvIO9RI4DHere0i",
+            "KgoKm6KYB1GOGMdQxA9R8Iw2qyf15sQ3",
+            "pBwPpFf3AY13e60foe2lBoSnhYJERfOa",
+            "ovViZNqwl1M7meg4bPjCrkdtjkRZQyoi",
+            "Lobpk9TMXUoeO8okWqEsJ2NxNkgn6NcX"
+          ],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 0,
+            "Ring": 0,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 2,
+            "SevenDeuce": 0,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 5,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [
+            "54",
+            "52",
+            "3",
+            "45"
+          ],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-01-22:3": {
+      "date_gameMode": "2025-01-22:3",
+      "title": "AOF",
+      "gameIds": [],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 0,
+          "notStartedGameIds": [],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 0,
+            "Ring": 0,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 2,
+            "SevenDeuce": 0,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 0,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-01-22:4": {
+      "date_gameMode": "2025-01-22:4",
+      "title": "SpinAndGo",
+      "gameIds": [],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 0,
+          "notStartedGameIds": [],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 0,
+            "Ring": 0,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 2,
+            "SevenDeuce": 0,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 0,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-01-22:5": {
+      "date_gameMode": "2025-01-22:5",
+      "title": "SquidGame",
+      "gameIds": [
+        "aO2dtBBn8zONX68hyrdUmzf1vpNQizgk"
+      ],
+      "userIds": [
+        "59",
+        "157"
+      ],
+      "users": [
+        {
+          "uid": "59",
+          "date_gameMode_gameId": "2025-01-22:5:aO2dtBBn8zONX68hyrdUmzf1vpNQizgk",
+          "gameModeName": "SquidGame",
+          "handCount": 6,
+          "playTimeHours": 308,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-01-22T07:20:45.993Z"
+        },
+        {
+          "uid": "157",
+          "date_gameMode_gameId": "2025-01-22:5:aO2dtBBn8zONX68hyrdUmzf1vpNQizgk",
+          "gameModeName": "SquidGame",
+          "handCount": 6,
+          "playTimeHours": 308,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-01-22T07:20:45.988Z"
+        }
+      ],
+      "games": [
+        {
+          "totalCreatedGames": [
+            "aO2dtBBn8zONX68hyrdUmzf1vpNQizgk"
+          ],
+          "totalPlayersCount": [
+            "59",
+            "157"
+          ],
+          "uniquePlayerIds": [
+            "59",
+            "157"
+          ],
+          "uniqueRoomCreators": [
+            "59"
+          ],
+          "gamesStarted": 1,
+          "gamesPlayedAfterCreation": 1,
+          "notStartedGames": 0,
+          "notStartedGameIds": [],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 616,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 12,
+          "uniqueAvgPlayTimeHours": 308,
+          "uniquePlayers": {
+            "59": {
+              "dailyPlayTime": 308,
+              "dailyHandsCount": 6,
+              "dailyGamesCreated": [
+                "aO2dtBBn8zONX68hyrdUmzf1vpNQizgk"
+              ],
+              "dailyGamesPlayed": [
+                "aO2dtBBn8zONX68hyrdUmzf1vpNQizgk"
+              ],
+              "lastActiveAt": "2025-03-12T05:03:59.948Z"
+            },
+            "157": {
+              "dailyPlayTime": 308,
+              "dailyHandsCount": 6,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "aO2dtBBn8zONX68hyrdUmzf1vpNQizgk"
+              ],
+              "lastActiveAt": "2025-03-12T05:03:59.948Z"
+            }
+          },
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 0,
+            "Ring": 0,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 2,
+            "SevenDeuce": 0,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 0,
+          "roomsStarted": 1,
+          "uniqueRoomCreators": [
+            "59"
+          ],
+          "totalParticipants": [
+            "59",
+            "157"
+          ],
+          "uniqueParticipants": [
+            "59",
+            "157"
+          ],
+          "uniqueTotalPlayTimeHours": 616,
+          "uniqueAvgPlayTimeHours": 308,
+          "uniqueAvgHandsCount": 6,
+          "uniqueTotalHandsCount": 12
+        }
+      ]
+    },
+    "2025-01-22:6": {
+      "date_gameMode": "2025-01-22:6",
+      "title": "SevenDeuce",
+      "gameIds": [],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 0,
+          "notStartedGameIds": [],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 0,
+            "Ring": 0,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 2,
+            "SevenDeuce": 0,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 0,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-01-22:7": {
+      "date_gameMode": "2025-01-22:7",
+      "title": "PlayNow",
+      "gameIds": [],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 0,
+          "notStartedGameIds": [],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 0,
+            "Ring": 0,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 2,
+            "SevenDeuce": 0,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 0,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-01-22:all": {
+      "date_gameMode": "2025-01-22:all",
+      "title": "전체",
+      "gameIds": [
+        "KkL0asUOFEK1hJQuoAvIO9RI4DHere0i",
+        "KgoKm6KYB1GOGMdQxA9R8Iw2qyf15sQ3",
+        "aO2dtBBn8zONX68hyrdUmzf1vpNQizgk",
+        "pBwPpFf3AY13e60foe2lBoSnhYJERfOa",
+        "ovViZNqwl1M7meg4bPjCrkdtjkRZQyoi",
+        "T_FZSb1dWd1ZHswLZJZcqcmyi6KpYUyu",
+        "Lobpk9TMXUoeO8okWqEsJ2NxNkgn6NcX"
+      ],
+      "userIds": [
+        "59",
+        "157"
+      ],
+      "users": [
+        {
+          "uid": "59",
+          "date_gameMode_gameId": "2025-01-22:5:aO2dtBBn8zONX68hyrdUmzf1vpNQizgk",
+          "gameModeName": "SquidGame",
+          "handCount": 6,
+          "playTimeHours": 308,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-01-22T07:20:45.993Z"
+        },
+        {
+          "uid": "157",
+          "date_gameMode_gameId": "2025-01-22:5:aO2dtBBn8zONX68hyrdUmzf1vpNQizgk",
+          "gameModeName": "SquidGame",
+          "handCount": 6,
+          "playTimeHours": 308,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-01-22T07:20:45.988Z"
+        }
+      ],
+      "games": [
+        {
+          "totalCreatedGames": [
+            "KkL0asUOFEK1hJQuoAvIO9RI4DHere0i",
+            "KgoKm6KYB1GOGMdQxA9R8Iw2qyf15sQ3",
+            "aO2dtBBn8zONX68hyrdUmzf1vpNQizgk",
+            "pBwPpFf3AY13e60foe2lBoSnhYJERfOa",
+            "ovViZNqwl1M7meg4bPjCrkdtjkRZQyoi",
+            "T_FZSb1dWd1ZHswLZJZcqcmyi6KpYUyu",
+            "Lobpk9TMXUoeO8okWqEsJ2NxNkgn6NcX"
+          ],
+          "totalPlayersCount": [
+            "59",
+            "157"
+          ],
+          "uniquePlayerIds": [
+            "59",
+            "157"
+          ],
+          "uniqueRoomCreators": [
+            "54",
+            "52",
+            "59",
+            "3",
+            "45"
+          ],
+          "gamesStarted": 1,
+          "gamesPlayedAfterCreation": 5,
+          "notStartedGames": 6,
+          "notStartedGameIds": [
+            "KkL0asUOFEK1hJQuoAvIO9RI4DHere0i",
+            "KgoKm6KYB1GOGMdQxA9R8Iw2qyf15sQ3",
+            "pBwPpFf3AY13e60foe2lBoSnhYJERfOa",
+            "ovViZNqwl1M7meg4bPjCrkdtjkRZQyoi",
+            "T_FZSb1dWd1ZHswLZJZcqcmyi6KpYUyu",
+            "Lobpk9TMXUoeO8okWqEsJ2NxNkgn6NcX"
+          ],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 616,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 12,
+          "uniqueAvgPlayTimeHours": 308,
+          "uniquePlayers": {
+            "59": {
+              "dailyPlayTime": 308,
+              "dailyHandsCount": 6,
+              "dailyGamesCreated": [
+                "aO2dtBBn8zONX68hyrdUmzf1vpNQizgk"
+              ],
+              "dailyGamesPlayed": [
+                "aO2dtBBn8zONX68hyrdUmzf1vpNQizgk"
+              ],
+              "lastActiveAt": "2025-03-12T05:03:59.948Z"
+            },
+            "157": {
+              "dailyPlayTime": 308,
+              "dailyHandsCount": 6,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "aO2dtBBn8zONX68hyrdUmzf1vpNQizgk"
+              ],
+              "lastActiveAt": "2025-03-12T05:03:59.948Z"
+            }
+          },
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 0,
+            "Ring": 0,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 2,
+            "SevenDeuce": 0,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 6,
+          "roomsStarted": 1,
+          "uniqueRoomCreators": [
+            "54",
+            "52",
+            "59",
+            "3",
+            "45"
+          ],
+          "totalParticipants": [
+            "59",
+            "157"
+          ],
+          "uniqueParticipants": [
+            "59",
+            "157"
+          ],
+          "uniqueTotalPlayTimeHours": 616,
+          "uniqueAvgPlayTimeHours": 308,
+          "uniqueAvgHandsCount": 6,
+          "uniqueTotalHandsCount": 12
+        }
+      ]
+    }
+  },
+  "userCount": {
+    "date": "2025-01-22",
+    "newUsers": 0,
+    "cumulativeUsers": 0
+  }
+}

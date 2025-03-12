@@ -1,0 +1,2939 @@
+{
+  "groupedData": {
+    "2025-02-06:0": {
+      "date_gameMode": "2025-02-06:0",
+      "title": "SitAndGo",
+      "gameIds": [
+        "beTmOcxR9PhXNyt9HGnc75GBDnaFytma",
+        "hkjetgz8xumg1lBnvBcUkASvsImW1Z1t"
+      ],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [
+            "beTmOcxR9PhXNyt9HGnc75GBDnaFytma",
+            "hkjetgz8xumg1lBnvBcUkASvsImW1Z1t"
+          ],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [
+            "39"
+          ],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 2,
+          "notStartedGameIds": [
+            "beTmOcxR9PhXNyt9HGnc75GBDnaFytma",
+            "hkjetgz8xumg1lBnvBcUkASvsImW1Z1t"
+          ],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 30,
+            "Ring": 6,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 0,
+            "SevenDeuce": 3,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 2,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [
+            "39"
+          ],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-02-06:1": {
+      "date_gameMode": "2025-02-06:1",
+      "title": "Tournament",
+      "gameIds": [
+        "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+        "T_Xsa51FehgHCe0kIZpzurtd4RSJ9ZO0",
+        "T_OwdRBi9jEwHijeMIK7Jw20yZ21lIRa",
+        "T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+        "T_llnYJadGBD4UODSwbtAX6ZkNG6oAbN",
+        "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+        "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+        "T_1ARzSfvkr9q1KSqrVPMKAnREJdorbf"
+      ],
+      "userIds": [
+        "8",
+        "101",
+        "98",
+        "30",
+        "13",
+        "88",
+        "32",
+        "1",
+        "2",
+        "97",
+        "11",
+        "6",
+        "87",
+        "18",
+        "16",
+        "3",
+        "34",
+        "17",
+        "33",
+        "40",
+        "130",
+        "22",
+        "27",
+        "31",
+        "354",
+        "28",
+        "12",
+        "45",
+        "4",
+        "171"
+      ],
+      "users": [
+        {
+          "uid": "8",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 55,
+          "playTimeHours": 3057,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:51:59.342Z"
+        },
+        {
+          "uid": "101",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 124,
+          "playTimeHours": 5710,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:36:56.323Z"
+        },
+        {
+          "uid": "98",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 9,
+          "playTimeHours": 281,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:05:27.533Z"
+        },
+        {
+          "uid": "30",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 7,
+          "playTimeHours": 225,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:05:27.550Z"
+        },
+        {
+          "uid": "13",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 100,
+          "playTimeHours": 4835,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:21:54.604Z"
+        },
+        {
+          "uid": "88",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 103,
+          "playTimeHours": 4772,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:20:52.449Z"
+        },
+        {
+          "uid": "32",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 17,
+          "playTimeHours": 941,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:16:59.536Z"
+        },
+        {
+          "uid": "1",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 7,
+          "playTimeHours": 317,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:06:15.279Z"
+        },
+        {
+          "uid": "2",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 35,
+          "playTimeHours": 2121,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:36:51.797Z"
+        },
+        {
+          "uid": "97",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 2,
+          "playTimeHours": 84,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:02:07.115Z"
+        },
+        {
+          "uid": "11",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 40,
+          "playTimeHours": 2432,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:41:31.233Z"
+        },
+        {
+          "uid": "6",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 12,
+          "playTimeHours": 714,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:13:00.653Z"
+        },
+        {
+          "uid": "87",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 25,
+          "playTimeHours": 1468,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:31:11.574Z"
+        },
+        {
+          "uid": "18",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 50,
+          "playTimeHours": 2862,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:54:34.985Z"
+        },
+        {
+          "uid": "16",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 116,
+          "playTimeHours": 5378,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:36:56.327Z"
+        },
+        {
+          "uid": "3",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 14,
+          "playTimeHours": 880,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:21:41.481Z"
+        },
+        {
+          "uid": "34",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 35,
+          "playTimeHours": 2238,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:45:27.587Z"
+        },
+        {
+          "uid": "17",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 11,
+          "playTimeHours": 697,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:21:27.313Z"
+        },
+        {
+          "uid": "33",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 123,
+          "playTimeHours": 5338,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:42:15.971Z"
+        },
+        {
+          "uid": "40",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 35,
+          "playTimeHours": 2290,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:50:57.426Z"
+        },
+        {
+          "uid": "130",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 23,
+          "playTimeHours": 1240,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:36:25.791Z"
+        },
+        {
+          "uid": "22",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 74,
+          "playTimeHours": 4425,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:29:36.875Z"
+        },
+        {
+          "uid": "27",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 17,
+          "playTimeHours": 1050,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:36:51.781Z"
+        },
+        {
+          "uid": "31",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 10,
+          "playTimeHours": 571,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:34:12.709Z"
+        },
+        {
+          "uid": "354",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 47,
+          "playTimeHours": 2772,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:22:28.237Z"
+        },
+        {
+          "uid": "28",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 79,
+          "playTimeHours": 3822,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:42:15.966Z"
+        },
+        {
+          "uid": "12",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 7,
+          "playTimeHours": 509,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:47:24.751Z"
+        },
+        {
+          "uid": "45",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 63,
+          "playTimeHours": 3388,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:37:55.059Z"
+        },
+        {
+          "uid": "4",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 52,
+          "playTimeHours": 2764,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:33:05.957Z"
+        },
+        {
+          "uid": "171",
+          "date_gameMode_gameId": "2025-02-06:1:T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+          "gameModeName": "Tournament",
+          "handCount": 1,
+          "playTimeHours": 0,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T07:48:17.201Z"
+        },
+        {
+          "uid": "11",
+          "date_gameMode_gameId": "2025-02-06:1:T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+          "gameModeName": "Tournament",
+          "handCount": 1,
+          "playTimeHours": 0,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T07:48:17.208Z"
+        },
+        {
+          "uid": "11",
+          "date_gameMode_gameId": "2025-02-06:1:T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+          "gameModeName": "Tournament",
+          "handCount": 905,
+          "playTimeHours": 14762,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:24:23.404Z"
+        },
+        {
+          "uid": "4",
+          "date_gameMode_gameId": "2025-02-06:1:T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+          "gameModeName": "Tournament",
+          "handCount": 980,
+          "playTimeHours": 15778,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:34:29.031Z"
+        },
+        {
+          "uid": "171",
+          "date_gameMode_gameId": "2025-02-06:1:T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+          "gameModeName": "Tournament",
+          "handCount": 979,
+          "playTimeHours": 15636,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:34:29.037Z"
+        },
+        {
+          "uid": "171",
+          "date_gameMode_gameId": "2025-02-06:1:T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+          "gameModeName": "Tournament",
+          "handCount": 869,
+          "playTimeHours": 13542,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:39:29.508Z"
+        },
+        {
+          "uid": "11",
+          "date_gameMode_gameId": "2025-02-06:1:T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+          "gameModeName": "Tournament",
+          "handCount": 867,
+          "playTimeHours": 13530,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:39:11.964Z"
+        },
+        {
+          "uid": "18",
+          "date_gameMode_gameId": "2025-02-06:1:T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+          "gameModeName": "Tournament",
+          "handCount": 869,
+          "playTimeHours": 13559,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:39:29.500Z"
+        },
+        {
+          "uid": "4",
+          "date_gameMode_gameId": "2025-02-06:1:T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+          "gameModeName": "Tournament",
+          "handCount": 869,
+          "playTimeHours": 13564,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:39:29.504Z"
+        }
+      ],
+      "games": [
+        {
+          "totalCreatedGames": [
+            "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+            "T_Xsa51FehgHCe0kIZpzurtd4RSJ9ZO0",
+            "T_OwdRBi9jEwHijeMIK7Jw20yZ21lIRa",
+            "T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+            "T_llnYJadGBD4UODSwbtAX6ZkNG6oAbN",
+            "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+            "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+            "T_1ARzSfvkr9q1KSqrVPMKAnREJdorbf"
+          ],
+          "totalPlayersCount": [
+            "8",
+            "101",
+            "98",
+            "30",
+            "13",
+            "88",
+            "32",
+            "1",
+            "2",
+            "97",
+            "11",
+            "6",
+            "87",
+            "18",
+            "16",
+            "3",
+            "34",
+            "17",
+            "33",
+            "40",
+            "130",
+            "22",
+            "27",
+            "31",
+            "354",
+            "28",
+            "12",
+            "45",
+            "4",
+            "171",
+            "11",
+            "11",
+            "4",
+            "171",
+            "171",
+            "11",
+            "18",
+            "4"
+          ],
+          "uniquePlayerIds": [
+            "8",
+            "101",
+            "98",
+            "30",
+            "13",
+            "88",
+            "32",
+            "1",
+            "2",
+            "97",
+            "11",
+            "6",
+            "87",
+            "18",
+            "16",
+            "3",
+            "34",
+            "17",
+            "33",
+            "40",
+            "130",
+            "22",
+            "27",
+            "31",
+            "354",
+            "28",
+            "12",
+            "45",
+            "4",
+            "171"
+          ],
+          "uniqueRoomCreators": [
+            "6",
+            "11",
+            "171",
+            "4",
+            "374"
+          ],
+          "gamesStarted": 4,
+          "gamesPlayedAfterCreation": 8,
+          "notStartedGames": 4,
+          "notStartedGameIds": [
+            "T_Xsa51FehgHCe0kIZpzurtd4RSJ9ZO0",
+            "T_OwdRBi9jEwHijeMIK7Jw20yZ21lIRa",
+            "T_llnYJadGBD4UODSwbtAX6ZkNG6oAbN",
+            "T_1ARzSfvkr9q1KSqrVPMKAnREJdorbf"
+          ],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 167552,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 7632,
+          "uniqueAvgPlayTimeHours": 5585.066666666667,
+          "uniquePlayers": {
+            "1": {
+              "dailyPlayTime": 317,
+              "dailyHandsCount": 7,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "2": {
+              "dailyPlayTime": 2121,
+              "dailyHandsCount": 35,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "3": {
+              "dailyPlayTime": 880,
+              "dailyHandsCount": 14,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "4": {
+              "dailyPlayTime": 32106,
+              "dailyHandsCount": 1901,
+              "dailyGamesCreated": [
+                "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0"
+              ],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+                "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+                "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "6": {
+              "dailyPlayTime": 714,
+              "dailyHandsCount": 12,
+              "dailyGamesCreated": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "8": {
+              "dailyPlayTime": 3057,
+              "dailyHandsCount": 55,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "11": {
+              "dailyPlayTime": 30724,
+              "dailyHandsCount": 1813,
+              "dailyGamesCreated": [
+                "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK"
+              ],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+                "T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+                "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+                "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "12": {
+              "dailyPlayTime": 509,
+              "dailyHandsCount": 7,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "13": {
+              "dailyPlayTime": 4835,
+              "dailyHandsCount": 100,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "16": {
+              "dailyPlayTime": 5378,
+              "dailyHandsCount": 116,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "17": {
+              "dailyPlayTime": 697,
+              "dailyHandsCount": 11,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "18": {
+              "dailyPlayTime": 16421,
+              "dailyHandsCount": 919,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+                "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "22": {
+              "dailyPlayTime": 4425,
+              "dailyHandsCount": 74,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "27": {
+              "dailyPlayTime": 1050,
+              "dailyHandsCount": 17,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "28": {
+              "dailyPlayTime": 3822,
+              "dailyHandsCount": 79,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "30": {
+              "dailyPlayTime": 225,
+              "dailyHandsCount": 7,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "31": {
+              "dailyPlayTime": 571,
+              "dailyHandsCount": 10,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "32": {
+              "dailyPlayTime": 941,
+              "dailyHandsCount": 17,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "33": {
+              "dailyPlayTime": 5338,
+              "dailyHandsCount": 123,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "34": {
+              "dailyPlayTime": 2238,
+              "dailyHandsCount": 35,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "40": {
+              "dailyPlayTime": 2290,
+              "dailyHandsCount": 35,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "45": {
+              "dailyPlayTime": 3388,
+              "dailyHandsCount": 63,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "87": {
+              "dailyPlayTime": 1468,
+              "dailyHandsCount": 25,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "88": {
+              "dailyPlayTime": 4772,
+              "dailyHandsCount": 103,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "97": {
+              "dailyPlayTime": 84,
+              "dailyHandsCount": 2,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "98": {
+              "dailyPlayTime": 281,
+              "dailyHandsCount": 9,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "101": {
+              "dailyPlayTime": 5710,
+              "dailyHandsCount": 124,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "130": {
+              "dailyPlayTime": 1240,
+              "dailyHandsCount": 23,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "171": {
+              "dailyPlayTime": 29178,
+              "dailyHandsCount": 1849,
+              "dailyGamesCreated": [
+                "T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y"
+              ],
+              "dailyGamesPlayed": [
+                "T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+                "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+                "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "354": {
+              "dailyPlayTime": 2772,
+              "dailyHandsCount": 47,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            }
+          },
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 30,
+            "Ring": 6,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 0,
+            "SevenDeuce": 3,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 4,
+          "roomsStarted": 4,
+          "uniqueRoomCreators": [
+            "6",
+            "11",
+            "171",
+            "4",
+            "374"
+          ],
+          "totalParticipants": [
+            "8",
+            "101",
+            "98",
+            "30",
+            "13",
+            "88",
+            "32",
+            "1",
+            "2",
+            "97",
+            "11",
+            "6",
+            "87",
+            "18",
+            "16",
+            "3",
+            "34",
+            "17",
+            "33",
+            "40",
+            "130",
+            "22",
+            "27",
+            "31",
+            "354",
+            "28",
+            "12",
+            "45",
+            "4",
+            "171",
+            "11",
+            "11",
+            "4",
+            "171",
+            "171",
+            "11",
+            "18",
+            "4"
+          ],
+          "uniqueParticipants": [
+            "8",
+            "101",
+            "98",
+            "30",
+            "13",
+            "88",
+            "32",
+            "1",
+            "2",
+            "97",
+            "11",
+            "6",
+            "87",
+            "18",
+            "16",
+            "3",
+            "34",
+            "17",
+            "33",
+            "40",
+            "130",
+            "22",
+            "27",
+            "31",
+            "354",
+            "28",
+            "12",
+            "45",
+            "4",
+            "171"
+          ],
+          "uniqueTotalPlayTimeHours": 167552,
+          "uniqueAvgPlayTimeHours": 5585.066666666667,
+          "uniqueAvgHandsCount": 254.4,
+          "uniqueTotalHandsCount": 7632
+        }
+      ]
+    },
+    "2025-02-06:2": {
+      "date_gameMode": "2025-02-06:2",
+      "title": "Ring",
+      "gameIds": [
+        "sEqwDGPkZDIWXdbYE6ugpyX1yJvBhS5F",
+        "3GfSX6nmbohmlomqfrBuaQnnzseEeiYk",
+        "bQ4eLomgEHDMxzefkzcoDRBYu4qgO3zs",
+        "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+        "mGJ0PR0jwkqcFPGzvfr8nltAJmlyq45p",
+        "LSsCRjnNzinod9tpHvew89bnqbEiu1sj",
+        "oEclmn4iK4h5KYBnQihSiCgYUMUzfo1Z",
+        "1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+        "VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+        "mMkGldrrRmp0jvH7v1dhXmtqn9LA9SPa",
+        "SWlXLzkS0ShvhuAohCzXszzeO5pdbFFQ"
+      ],
+      "userIds": [
+        "22",
+        "130",
+        "OL23B8v4AqAqRZx",
+        "1sEr4V3QcLs896t",
+        "h8nO3682eq4Gmy2",
+        "0At6YN93HalDNx1"
+      ],
+      "users": [
+        {
+          "uid": "22",
+          "date_gameMode_gameId": "2025-02-06:2:euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+          "gameModeName": "Ring",
+          "handCount": 6,
+          "playTimeHours": 209,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:04:13.074Z"
+        },
+        {
+          "uid": "130",
+          "date_gameMode_gameId": "2025-02-06:2:euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+          "gameModeName": "Ring",
+          "handCount": 6,
+          "playTimeHours": 208,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:04:13.080Z"
+        },
+        {
+          "uid": "OL23B8v4AqAqRZx",
+          "date_gameMode_gameId": "2025-02-06:2:euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+          "gameModeName": "Ring",
+          "handCount": 5,
+          "playTimeHours": 209,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:04:13.069Z"
+        },
+        {
+          "uid": "1sEr4V3QcLs896t",
+          "date_gameMode_gameId": "2025-02-06:2:1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+          "gameModeName": "Ring",
+          "handCount": 2,
+          "playTimeHours": 37,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:21:49.324Z"
+        },
+        {
+          "uid": "130",
+          "date_gameMode_gameId": "2025-02-06:2:1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+          "gameModeName": "Ring",
+          "handCount": 2,
+          "playTimeHours": 37,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:21:49.319Z"
+        },
+        {
+          "uid": "h8nO3682eq4Gmy2",
+          "date_gameMode_gameId": "2025-02-06:2:VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+          "gameModeName": "Ring",
+          "handCount": 10,
+          "playTimeHours": 334,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:29:10.887Z"
+        },
+        {
+          "uid": "130",
+          "date_gameMode_gameId": "2025-02-06:2:VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+          "gameModeName": "Ring",
+          "handCount": 11,
+          "playTimeHours": 333,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:29:10.892Z"
+        },
+        {
+          "uid": "0At6YN93HalDNx1",
+          "date_gameMode_gameId": "2025-02-06:2:VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+          "gameModeName": "Ring",
+          "handCount": 4,
+          "playTimeHours": 122,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:27:18.074Z"
+        },
+        {
+          "uid": "22",
+          "date_gameMode_gameId": "2025-02-06:2:VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+          "gameModeName": "Ring",
+          "handCount": 4,
+          "playTimeHours": 122,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:27:18.060Z"
+        }
+      ],
+      "games": [
+        {
+          "totalCreatedGames": [
+            "sEqwDGPkZDIWXdbYE6ugpyX1yJvBhS5F",
+            "3GfSX6nmbohmlomqfrBuaQnnzseEeiYk",
+            "bQ4eLomgEHDMxzefkzcoDRBYu4qgO3zs",
+            "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+            "mGJ0PR0jwkqcFPGzvfr8nltAJmlyq45p",
+            "LSsCRjnNzinod9tpHvew89bnqbEiu1sj",
+            "oEclmn4iK4h5KYBnQihSiCgYUMUzfo1Z",
+            "1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+            "VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+            "mMkGldrrRmp0jvH7v1dhXmtqn9LA9SPa",
+            "SWlXLzkS0ShvhuAohCzXszzeO5pdbFFQ"
+          ],
+          "totalPlayersCount": [
+            "22",
+            "130",
+            "OL23B8v4AqAqRZx",
+            "1sEr4V3QcLs896t",
+            "130",
+            "h8nO3682eq4Gmy2",
+            "130",
+            "0At6YN93HalDNx1",
+            "22"
+          ],
+          "uniquePlayerIds": [
+            "22",
+            "130",
+            "OL23B8v4AqAqRZx",
+            "1sEr4V3QcLs896t",
+            "h8nO3682eq4Gmy2",
+            "0At6YN93HalDNx1"
+          ],
+          "uniqueRoomCreators": [
+            "8",
+            "22",
+            "130"
+          ],
+          "gamesStarted": 3,
+          "gamesPlayedAfterCreation": 8,
+          "notStartedGames": 8,
+          "notStartedGameIds": [
+            "sEqwDGPkZDIWXdbYE6ugpyX1yJvBhS5F",
+            "3GfSX6nmbohmlomqfrBuaQnnzseEeiYk",
+            "bQ4eLomgEHDMxzefkzcoDRBYu4qgO3zs",
+            "mGJ0PR0jwkqcFPGzvfr8nltAJmlyq45p",
+            "LSsCRjnNzinod9tpHvew89bnqbEiu1sj",
+            "oEclmn4iK4h5KYBnQihSiCgYUMUzfo1Z",
+            "mMkGldrrRmp0jvH7v1dhXmtqn9LA9SPa",
+            "SWlXLzkS0ShvhuAohCzXszzeO5pdbFFQ"
+          ],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 1611,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 50,
+          "uniqueAvgPlayTimeHours": 268.5,
+          "uniquePlayers": {
+            "22": {
+              "dailyPlayTime": 331,
+              "dailyHandsCount": 10,
+              "dailyGamesCreated": [
+                "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x"
+              ],
+              "dailyGamesPlayed": [
+                "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+                "VGNzI153sqBBT6RQEe0slJzPMCnW89o1"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "130": {
+              "dailyPlayTime": 578,
+              "dailyHandsCount": 19,
+              "dailyGamesCreated": [
+                "1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+                "VGNzI153sqBBT6RQEe0slJzPMCnW89o1"
+              ],
+              "dailyGamesPlayed": [
+                "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+                "1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+                "VGNzI153sqBBT6RQEe0slJzPMCnW89o1"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "OL23B8v4AqAqRZx": {
+              "dailyPlayTime": 209,
+              "dailyHandsCount": 5,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "1sEr4V3QcLs896t": {
+              "dailyPlayTime": 37,
+              "dailyHandsCount": 2,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "h8nO3682eq4Gmy2": {
+              "dailyPlayTime": 334,
+              "dailyHandsCount": 10,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "VGNzI153sqBBT6RQEe0slJzPMCnW89o1"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "0At6YN93HalDNx1": {
+              "dailyPlayTime": 122,
+              "dailyHandsCount": 4,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "VGNzI153sqBBT6RQEe0slJzPMCnW89o1"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            }
+          },
+          "uniqueGuestPlayers": {},
+          "guestDau": [
+            "OL23B8v4AqAqRZx",
+            "1sEr4V3QcLs896t",
+            "h8nO3682eq4Gmy2",
+            "0At6YN93HalDNx1"
+          ]
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 30,
+            "Ring": 6,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 0,
+            "SevenDeuce": 3,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 8,
+          "roomsStarted": 3,
+          "uniqueRoomCreators": [
+            "8",
+            "22",
+            "130"
+          ],
+          "totalParticipants": [
+            "22",
+            "130",
+            "OL23B8v4AqAqRZx",
+            "1sEr4V3QcLs896t",
+            "130",
+            "h8nO3682eq4Gmy2",
+            "130",
+            "0At6YN93HalDNx1",
+            "22"
+          ],
+          "uniqueParticipants": [
+            "22",
+            "130",
+            "OL23B8v4AqAqRZx",
+            "1sEr4V3QcLs896t",
+            "h8nO3682eq4Gmy2",
+            "0At6YN93HalDNx1"
+          ],
+          "uniqueTotalPlayTimeHours": 1611,
+          "uniqueAvgPlayTimeHours": 268.5,
+          "uniqueAvgHandsCount": 8.333333333333334,
+          "uniqueTotalHandsCount": 50
+        }
+      ]
+    },
+    "2025-02-06:3": {
+      "date_gameMode": "2025-02-06:3",
+      "title": "AOF",
+      "gameIds": [],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 0,
+          "notStartedGameIds": [],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 30,
+            "Ring": 6,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 0,
+            "SevenDeuce": 3,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 0,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-02-06:4": {
+      "date_gameMode": "2025-02-06:4",
+      "title": "SpinAndGo",
+      "gameIds": [],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 0,
+          "notStartedGameIds": [],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 30,
+            "Ring": 6,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 0,
+            "SevenDeuce": 3,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 0,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-02-06:5": {
+      "date_gameMode": "2025-02-06:5",
+      "title": "SquidGame",
+      "gameIds": [
+        "FbakMPlhky9RW4A38T9agZFBcaZwYjpg",
+        "eLzMBt26mOgRqpGl8nKw8J7tFjQ9kYg4",
+        "k8lpzE5JPOfUNfqNafQhiEyDotee7t5E",
+        "VYayF6qIaOuMvbG2g48RfLJTV1Lxbe1j",
+        "AvhyUihkVFqh1w7FKXozaVljV6eHp4cx"
+      ],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [
+            "FbakMPlhky9RW4A38T9agZFBcaZwYjpg",
+            "eLzMBt26mOgRqpGl8nKw8J7tFjQ9kYg4",
+            "k8lpzE5JPOfUNfqNafQhiEyDotee7t5E",
+            "VYayF6qIaOuMvbG2g48RfLJTV1Lxbe1j",
+            "AvhyUihkVFqh1w7FKXozaVljV6eHp4cx"
+          ],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [
+            "11",
+            "39",
+            "357"
+          ],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 5,
+          "notStartedGameIds": [
+            "FbakMPlhky9RW4A38T9agZFBcaZwYjpg",
+            "eLzMBt26mOgRqpGl8nKw8J7tFjQ9kYg4",
+            "k8lpzE5JPOfUNfqNafQhiEyDotee7t5E",
+            "VYayF6qIaOuMvbG2g48RfLJTV1Lxbe1j",
+            "AvhyUihkVFqh1w7FKXozaVljV6eHp4cx"
+          ],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 30,
+            "Ring": 6,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 0,
+            "SevenDeuce": 3,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 5,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [
+            "11",
+            "39",
+            "357"
+          ],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-02-06:6": {
+      "date_gameMode": "2025-02-06:6",
+      "title": "SevenDeuce",
+      "gameIds": [
+        "DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+        "x9Z3EWafDGvAkbImdxkRoNP25qRCzekv"
+      ],
+      "userIds": [
+        "1Koc10jH2zazXu8",
+        "3",
+        "cJdv59a4TSy40HW"
+      ],
+      "users": [
+        {
+          "uid": "1Koc10jH2zazXu8",
+          "date_gameMode_gameId": "2025-02-06:6:DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+          "gameModeName": "SevenDeuce",
+          "handCount": 2,
+          "playTimeHours": 21,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T02:05:15.988Z"
+        },
+        {
+          "uid": "3",
+          "date_gameMode_gameId": "2025-02-06:6:DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+          "gameModeName": "SevenDeuce",
+          "handCount": 2,
+          "playTimeHours": 21,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T02:05:15.983Z"
+        },
+        {
+          "uid": "3",
+          "date_gameMode_gameId": "2025-02-06:6:x9Z3EWafDGvAkbImdxkRoNP25qRCzekv",
+          "gameModeName": "SevenDeuce",
+          "handCount": 4,
+          "playTimeHours": 66,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T02:07:54.845Z"
+        },
+        {
+          "uid": "cJdv59a4TSy40HW",
+          "date_gameMode_gameId": "2025-02-06:6:x9Z3EWafDGvAkbImdxkRoNP25qRCzekv",
+          "gameModeName": "SevenDeuce",
+          "handCount": 4,
+          "playTimeHours": 66,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T02:07:54.841Z"
+        }
+      ],
+      "games": [
+        {
+          "totalCreatedGames": [
+            "DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+            "x9Z3EWafDGvAkbImdxkRoNP25qRCzekv"
+          ],
+          "totalPlayersCount": [
+            "1Koc10jH2zazXu8",
+            "3",
+            "3",
+            "cJdv59a4TSy40HW"
+          ],
+          "uniquePlayerIds": [
+            "1Koc10jH2zazXu8",
+            "3",
+            "cJdv59a4TSy40HW"
+          ],
+          "uniqueRoomCreators": [
+            "3"
+          ],
+          "gamesStarted": 2,
+          "gamesPlayedAfterCreation": 2,
+          "notStartedGames": 0,
+          "notStartedGameIds": [],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 174,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 12,
+          "uniqueAvgPlayTimeHours": 58,
+          "uniquePlayers": {
+            "3": {
+              "dailyPlayTime": 87,
+              "dailyHandsCount": 6,
+              "dailyGamesCreated": [
+                "DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+                "x9Z3EWafDGvAkbImdxkRoNP25qRCzekv"
+              ],
+              "dailyGamesPlayed": [
+                "DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+                "x9Z3EWafDGvAkbImdxkRoNP25qRCzekv"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "1Koc10jH2zazXu8": {
+              "dailyPlayTime": 21,
+              "dailyHandsCount": 2,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "cJdv59a4TSy40HW": {
+              "dailyPlayTime": 66,
+              "dailyHandsCount": 4,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "x9Z3EWafDGvAkbImdxkRoNP25qRCzekv"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            }
+          },
+          "uniqueGuestPlayers": {},
+          "guestDau": [
+            "1Koc10jH2zazXu8",
+            "cJdv59a4TSy40HW"
+          ]
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 30,
+            "Ring": 6,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 0,
+            "SevenDeuce": 3,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 0,
+          "roomsStarted": 2,
+          "uniqueRoomCreators": [
+            "3"
+          ],
+          "totalParticipants": [
+            "1Koc10jH2zazXu8",
+            "3",
+            "3",
+            "cJdv59a4TSy40HW"
+          ],
+          "uniqueParticipants": [
+            "1Koc10jH2zazXu8",
+            "3",
+            "cJdv59a4TSy40HW"
+          ],
+          "uniqueTotalPlayTimeHours": 174,
+          "uniqueAvgPlayTimeHours": 58,
+          "uniqueAvgHandsCount": 4,
+          "uniqueTotalHandsCount": 12
+        }
+      ]
+    },
+    "2025-02-06:7": {
+      "date_gameMode": "2025-02-06:7",
+      "title": "PlayNow",
+      "gameIds": [],
+      "userIds": [],
+      "users": [],
+      "games": [
+        {
+          "totalCreatedGames": [],
+          "totalPlayersCount": [],
+          "uniquePlayerIds": [],
+          "uniqueRoomCreators": [],
+          "gamesStarted": 0,
+          "gamesPlayedAfterCreation": 0,
+          "notStartedGames": 0,
+          "notStartedGameIds": [],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 0,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniquePlayers": {},
+          "uniqueGuestPlayers": {},
+          "guestDau": []
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 30,
+            "Ring": 6,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 0,
+            "SevenDeuce": 3,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 0,
+          "roomsStarted": 0,
+          "uniqueRoomCreators": [],
+          "totalParticipants": [],
+          "uniqueParticipants": [],
+          "uniqueTotalPlayTimeHours": 0,
+          "uniqueAvgPlayTimeHours": 0,
+          "uniqueAvgHandsCount": 0,
+          "uniqueTotalHandsCount": 0
+        }
+      ]
+    },
+    "2025-02-06:all": {
+      "date_gameMode": "2025-02-06:all",
+      "title": "전체",
+      "gameIds": [
+        "sEqwDGPkZDIWXdbYE6ugpyX1yJvBhS5F",
+        "3GfSX6nmbohmlomqfrBuaQnnzseEeiYk",
+        "bQ4eLomgEHDMxzefkzcoDRBYu4qgO3zs",
+        "DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+        "x9Z3EWafDGvAkbImdxkRoNP25qRCzekv",
+        "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+        "mGJ0PR0jwkqcFPGzvfr8nltAJmlyq45p",
+        "LSsCRjnNzinod9tpHvew89bnqbEiu1sj",
+        "FbakMPlhky9RW4A38T9agZFBcaZwYjpg",
+        "oEclmn4iK4h5KYBnQihSiCgYUMUzfo1Z",
+        "1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+        "VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+        "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+        "beTmOcxR9PhXNyt9HGnc75GBDnaFytma",
+        "hkjetgz8xumg1lBnvBcUkASvsImW1Z1t",
+        "eLzMBt26mOgRqpGl8nKw8J7tFjQ9kYg4",
+        "T_Xsa51FehgHCe0kIZpzurtd4RSJ9ZO0",
+        "mMkGldrrRmp0jvH7v1dhXmtqn9LA9SPa",
+        "T_OwdRBi9jEwHijeMIK7Jw20yZ21lIRa",
+        "T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+        "T_llnYJadGBD4UODSwbtAX6ZkNG6oAbN",
+        "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+        "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+        "k8lpzE5JPOfUNfqNafQhiEyDotee7t5E",
+        "VYayF6qIaOuMvbG2g48RfLJTV1Lxbe1j",
+        "AvhyUihkVFqh1w7FKXozaVljV6eHp4cx",
+        "SWlXLzkS0ShvhuAohCzXszzeO5pdbFFQ",
+        "T_1ARzSfvkr9q1KSqrVPMKAnREJdorbf"
+      ],
+      "userIds": [
+        "1Koc10jH2zazXu8",
+        "3",
+        "cJdv59a4TSy40HW",
+        "22",
+        "130",
+        "OL23B8v4AqAqRZx",
+        "1sEr4V3QcLs896t",
+        "h8nO3682eq4Gmy2",
+        "0At6YN93HalDNx1",
+        "8",
+        "101",
+        "98",
+        "30",
+        "13",
+        "88",
+        "32",
+        "1",
+        "2",
+        "97",
+        "11",
+        "6",
+        "87",
+        "18",
+        "16",
+        "34",
+        "17",
+        "33",
+        "40",
+        "27",
+        "31",
+        "354",
+        "28",
+        "12",
+        "45",
+        "4",
+        "171"
+      ],
+      "users": [
+        {
+          "uid": "1Koc10jH2zazXu8",
+          "date_gameMode_gameId": "2025-02-06:6:DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+          "gameModeName": "SevenDeuce",
+          "handCount": 2,
+          "playTimeHours": 21,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T02:05:15.988Z"
+        },
+        {
+          "uid": "3",
+          "date_gameMode_gameId": "2025-02-06:6:DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+          "gameModeName": "SevenDeuce",
+          "handCount": 2,
+          "playTimeHours": 21,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T02:05:15.983Z"
+        },
+        {
+          "uid": "3",
+          "date_gameMode_gameId": "2025-02-06:6:x9Z3EWafDGvAkbImdxkRoNP25qRCzekv",
+          "gameModeName": "SevenDeuce",
+          "handCount": 4,
+          "playTimeHours": 66,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T02:07:54.845Z"
+        },
+        {
+          "uid": "cJdv59a4TSy40HW",
+          "date_gameMode_gameId": "2025-02-06:6:x9Z3EWafDGvAkbImdxkRoNP25qRCzekv",
+          "gameModeName": "SevenDeuce",
+          "handCount": 4,
+          "playTimeHours": 66,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T02:07:54.841Z"
+        },
+        {
+          "uid": "22",
+          "date_gameMode_gameId": "2025-02-06:2:euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+          "gameModeName": "Ring",
+          "handCount": 6,
+          "playTimeHours": 209,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:04:13.074Z"
+        },
+        {
+          "uid": "130",
+          "date_gameMode_gameId": "2025-02-06:2:euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+          "gameModeName": "Ring",
+          "handCount": 6,
+          "playTimeHours": 208,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:04:13.080Z"
+        },
+        {
+          "uid": "OL23B8v4AqAqRZx",
+          "date_gameMode_gameId": "2025-02-06:2:euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+          "gameModeName": "Ring",
+          "handCount": 5,
+          "playTimeHours": 209,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:04:13.069Z"
+        },
+        {
+          "uid": "1sEr4V3QcLs896t",
+          "date_gameMode_gameId": "2025-02-06:2:1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+          "gameModeName": "Ring",
+          "handCount": 2,
+          "playTimeHours": 37,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:21:49.324Z"
+        },
+        {
+          "uid": "130",
+          "date_gameMode_gameId": "2025-02-06:2:1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+          "gameModeName": "Ring",
+          "handCount": 2,
+          "playTimeHours": 37,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:21:49.319Z"
+        },
+        {
+          "uid": "h8nO3682eq4Gmy2",
+          "date_gameMode_gameId": "2025-02-06:2:VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+          "gameModeName": "Ring",
+          "handCount": 10,
+          "playTimeHours": 334,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:29:10.887Z"
+        },
+        {
+          "uid": "130",
+          "date_gameMode_gameId": "2025-02-06:2:VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+          "gameModeName": "Ring",
+          "handCount": 11,
+          "playTimeHours": 333,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:29:10.892Z"
+        },
+        {
+          "uid": "0At6YN93HalDNx1",
+          "date_gameMode_gameId": "2025-02-06:2:VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+          "gameModeName": "Ring",
+          "handCount": 4,
+          "playTimeHours": 122,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:27:18.074Z"
+        },
+        {
+          "uid": "22",
+          "date_gameMode_gameId": "2025-02-06:2:VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+          "gameModeName": "Ring",
+          "handCount": 4,
+          "playTimeHours": 122,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T03:27:18.060Z"
+        },
+        {
+          "uid": "8",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 55,
+          "playTimeHours": 3057,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:51:59.342Z"
+        },
+        {
+          "uid": "101",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 124,
+          "playTimeHours": 5710,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:36:56.323Z"
+        },
+        {
+          "uid": "98",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 9,
+          "playTimeHours": 281,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:05:27.533Z"
+        },
+        {
+          "uid": "30",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 7,
+          "playTimeHours": 225,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:05:27.550Z"
+        },
+        {
+          "uid": "13",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 100,
+          "playTimeHours": 4835,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:21:54.604Z"
+        },
+        {
+          "uid": "88",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 103,
+          "playTimeHours": 4772,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:20:52.449Z"
+        },
+        {
+          "uid": "32",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 17,
+          "playTimeHours": 941,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:16:59.536Z"
+        },
+        {
+          "uid": "1",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 7,
+          "playTimeHours": 317,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:06:15.279Z"
+        },
+        {
+          "uid": "2",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 35,
+          "playTimeHours": 2121,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:36:51.797Z"
+        },
+        {
+          "uid": "97",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 2,
+          "playTimeHours": 84,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:02:07.115Z"
+        },
+        {
+          "uid": "11",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 40,
+          "playTimeHours": 2432,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:41:31.233Z"
+        },
+        {
+          "uid": "6",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 12,
+          "playTimeHours": 714,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:13:00.653Z"
+        },
+        {
+          "uid": "87",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 25,
+          "playTimeHours": 1468,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:31:11.574Z"
+        },
+        {
+          "uid": "18",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 50,
+          "playTimeHours": 2862,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:54:34.985Z"
+        },
+        {
+          "uid": "16",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 116,
+          "playTimeHours": 5378,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:36:56.327Z"
+        },
+        {
+          "uid": "3",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 14,
+          "playTimeHours": 880,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:21:41.481Z"
+        },
+        {
+          "uid": "34",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 35,
+          "playTimeHours": 2238,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:45:27.587Z"
+        },
+        {
+          "uid": "17",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 11,
+          "playTimeHours": 697,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:21:27.313Z"
+        },
+        {
+          "uid": "33",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 123,
+          "playTimeHours": 5338,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:42:15.971Z"
+        },
+        {
+          "uid": "40",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 35,
+          "playTimeHours": 2290,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:50:57.426Z"
+        },
+        {
+          "uid": "130",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 23,
+          "playTimeHours": 1240,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:36:25.791Z"
+        },
+        {
+          "uid": "22",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 74,
+          "playTimeHours": 4425,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:29:36.875Z"
+        },
+        {
+          "uid": "27",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 17,
+          "playTimeHours": 1050,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:36:51.781Z"
+        },
+        {
+          "uid": "31",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 10,
+          "playTimeHours": 571,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:34:12.709Z"
+        },
+        {
+          "uid": "354",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 47,
+          "playTimeHours": 2772,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:22:28.237Z"
+        },
+        {
+          "uid": "28",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 79,
+          "playTimeHours": 3822,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:42:15.966Z"
+        },
+        {
+          "uid": "12",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 7,
+          "playTimeHours": 509,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T04:47:24.751Z"
+        },
+        {
+          "uid": "45",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 63,
+          "playTimeHours": 3388,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:37:55.059Z"
+        },
+        {
+          "uid": "4",
+          "date_gameMode_gameId": "2025-02-06:1:T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+          "gameModeName": "Tournament",
+          "handCount": 52,
+          "playTimeHours": 2764,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T05:33:05.957Z"
+        },
+        {
+          "uid": "171",
+          "date_gameMode_gameId": "2025-02-06:1:T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+          "gameModeName": "Tournament",
+          "handCount": 1,
+          "playTimeHours": 0,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T07:48:17.201Z"
+        },
+        {
+          "uid": "11",
+          "date_gameMode_gameId": "2025-02-06:1:T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+          "gameModeName": "Tournament",
+          "handCount": 1,
+          "playTimeHours": 0,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T07:48:17.208Z"
+        },
+        {
+          "uid": "11",
+          "date_gameMode_gameId": "2025-02-06:1:T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+          "gameModeName": "Tournament",
+          "handCount": 905,
+          "playTimeHours": 14762,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:24:23.404Z"
+        },
+        {
+          "uid": "4",
+          "date_gameMode_gameId": "2025-02-06:1:T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+          "gameModeName": "Tournament",
+          "handCount": 980,
+          "playTimeHours": 15778,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:34:29.031Z"
+        },
+        {
+          "uid": "171",
+          "date_gameMode_gameId": "2025-02-06:1:T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+          "gameModeName": "Tournament",
+          "handCount": 979,
+          "playTimeHours": 15636,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:34:29.037Z"
+        },
+        {
+          "uid": "171",
+          "date_gameMode_gameId": "2025-02-06:1:T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+          "gameModeName": "Tournament",
+          "handCount": 869,
+          "playTimeHours": 13542,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:39:29.508Z"
+        },
+        {
+          "uid": "11",
+          "date_gameMode_gameId": "2025-02-06:1:T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+          "gameModeName": "Tournament",
+          "handCount": 867,
+          "playTimeHours": 13530,
+          "gamesCreated": 1,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:39:11.964Z"
+        },
+        {
+          "uid": "18",
+          "date_gameMode_gameId": "2025-02-06:1:T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+          "gameModeName": "Tournament",
+          "handCount": 869,
+          "playTimeHours": 13559,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:39:29.500Z"
+        },
+        {
+          "uid": "4",
+          "date_gameMode_gameId": "2025-02-06:1:T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+          "gameModeName": "Tournament",
+          "handCount": 869,
+          "playTimeHours": 13564,
+          "gamesCreated": 0,
+          "gamesPlayed": 1,
+          "lastActiveAt": "2025-02-06T10:39:29.504Z"
+        }
+      ],
+      "games": [
+        {
+          "totalCreatedGames": [
+            "sEqwDGPkZDIWXdbYE6ugpyX1yJvBhS5F",
+            "3GfSX6nmbohmlomqfrBuaQnnzseEeiYk",
+            "bQ4eLomgEHDMxzefkzcoDRBYu4qgO3zs",
+            "DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+            "x9Z3EWafDGvAkbImdxkRoNP25qRCzekv",
+            "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+            "mGJ0PR0jwkqcFPGzvfr8nltAJmlyq45p",
+            "LSsCRjnNzinod9tpHvew89bnqbEiu1sj",
+            "FbakMPlhky9RW4A38T9agZFBcaZwYjpg",
+            "oEclmn4iK4h5KYBnQihSiCgYUMUzfo1Z",
+            "1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+            "VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+            "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+            "beTmOcxR9PhXNyt9HGnc75GBDnaFytma",
+            "hkjetgz8xumg1lBnvBcUkASvsImW1Z1t",
+            "eLzMBt26mOgRqpGl8nKw8J7tFjQ9kYg4",
+            "T_Xsa51FehgHCe0kIZpzurtd4RSJ9ZO0",
+            "mMkGldrrRmp0jvH7v1dhXmtqn9LA9SPa",
+            "T_OwdRBi9jEwHijeMIK7Jw20yZ21lIRa",
+            "T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+            "T_llnYJadGBD4UODSwbtAX6ZkNG6oAbN",
+            "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+            "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK",
+            "k8lpzE5JPOfUNfqNafQhiEyDotee7t5E",
+            "VYayF6qIaOuMvbG2g48RfLJTV1Lxbe1j",
+            "AvhyUihkVFqh1w7FKXozaVljV6eHp4cx",
+            "SWlXLzkS0ShvhuAohCzXszzeO5pdbFFQ",
+            "T_1ARzSfvkr9q1KSqrVPMKAnREJdorbf"
+          ],
+          "totalPlayersCount": [
+            "1Koc10jH2zazXu8",
+            "3",
+            "3",
+            "cJdv59a4TSy40HW",
+            "22",
+            "130",
+            "OL23B8v4AqAqRZx",
+            "1sEr4V3QcLs896t",
+            "130",
+            "h8nO3682eq4Gmy2",
+            "130",
+            "0At6YN93HalDNx1",
+            "22",
+            "8",
+            "101",
+            "98",
+            "30",
+            "13",
+            "88",
+            "32",
+            "1",
+            "2",
+            "97",
+            "11",
+            "6",
+            "87",
+            "18",
+            "16",
+            "3",
+            "34",
+            "17",
+            "33",
+            "40",
+            "130",
+            "22",
+            "27",
+            "31",
+            "354",
+            "28",
+            "12",
+            "45",
+            "4",
+            "171",
+            "11",
+            "11",
+            "4",
+            "171",
+            "171",
+            "11",
+            "18",
+            "4"
+          ],
+          "uniquePlayerIds": [
+            "1Koc10jH2zazXu8",
+            "3",
+            "cJdv59a4TSy40HW",
+            "22",
+            "130",
+            "OL23B8v4AqAqRZx",
+            "1sEr4V3QcLs896t",
+            "h8nO3682eq4Gmy2",
+            "0At6YN93HalDNx1",
+            "8",
+            "101",
+            "98",
+            "30",
+            "13",
+            "88",
+            "32",
+            "1",
+            "2",
+            "97",
+            "11",
+            "6",
+            "87",
+            "18",
+            "16",
+            "34",
+            "17",
+            "33",
+            "40",
+            "27",
+            "31",
+            "354",
+            "28",
+            "12",
+            "45",
+            "4",
+            "171"
+          ],
+          "uniqueRoomCreators": [
+            "8",
+            "3",
+            "22",
+            "11",
+            "130",
+            "6",
+            "39",
+            "171",
+            "4",
+            "357",
+            "374"
+          ],
+          "gamesStarted": 9,
+          "gamesPlayedAfterCreation": 25,
+          "notStartedGames": 19,
+          "notStartedGameIds": [
+            "sEqwDGPkZDIWXdbYE6ugpyX1yJvBhS5F",
+            "3GfSX6nmbohmlomqfrBuaQnnzseEeiYk",
+            "bQ4eLomgEHDMxzefkzcoDRBYu4qgO3zs",
+            "mGJ0PR0jwkqcFPGzvfr8nltAJmlyq45p",
+            "LSsCRjnNzinod9tpHvew89bnqbEiu1sj",
+            "FbakMPlhky9RW4A38T9agZFBcaZwYjpg",
+            "oEclmn4iK4h5KYBnQihSiCgYUMUzfo1Z",
+            "beTmOcxR9PhXNyt9HGnc75GBDnaFytma",
+            "hkjetgz8xumg1lBnvBcUkASvsImW1Z1t",
+            "eLzMBt26mOgRqpGl8nKw8J7tFjQ9kYg4",
+            "T_Xsa51FehgHCe0kIZpzurtd4RSJ9ZO0",
+            "mMkGldrrRmp0jvH7v1dhXmtqn9LA9SPa",
+            "T_OwdRBi9jEwHijeMIK7Jw20yZ21lIRa",
+            "T_llnYJadGBD4UODSwbtAX6ZkNG6oAbN",
+            "k8lpzE5JPOfUNfqNafQhiEyDotee7t5E",
+            "VYayF6qIaOuMvbG2g48RfLJTV1Lxbe1j",
+            "AvhyUihkVFqh1w7FKXozaVljV6eHp4cx",
+            "SWlXLzkS0ShvhuAohCzXszzeO5pdbFFQ",
+            "T_1ARzSfvkr9q1KSqrVPMKAnREJdorbf"
+          ],
+          "canceledGames": 0,
+          "canceledGameIds": [],
+          "totalPlayTimeHours": 0,
+          "uniqueTotalPlayTimeHours": 169337,
+          "totalHandsCount": 0,
+          "uniqueTotalHandsCount": 7694,
+          "uniqueAvgPlayTimeHours": 4703.805555555556,
+          "uniquePlayers": {
+            "1": {
+              "dailyPlayTime": 317,
+              "dailyHandsCount": 7,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "2": {
+              "dailyPlayTime": 2121,
+              "dailyHandsCount": 35,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "3": {
+              "dailyPlayTime": 967,
+              "dailyHandsCount": 20,
+              "dailyGamesCreated": [
+                "DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+                "x9Z3EWafDGvAkbImdxkRoNP25qRCzekv"
+              ],
+              "dailyGamesPlayed": [
+                "DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW",
+                "x9Z3EWafDGvAkbImdxkRoNP25qRCzekv",
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "4": {
+              "dailyPlayTime": 32106,
+              "dailyHandsCount": 1901,
+              "dailyGamesCreated": [
+                "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0"
+              ],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+                "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+                "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "6": {
+              "dailyPlayTime": 714,
+              "dailyHandsCount": 12,
+              "dailyGamesCreated": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "8": {
+              "dailyPlayTime": 3057,
+              "dailyHandsCount": 55,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "11": {
+              "dailyPlayTime": 30724,
+              "dailyHandsCount": 1813,
+              "dailyGamesCreated": [
+                "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK"
+              ],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+                "T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+                "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+                "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "12": {
+              "dailyPlayTime": 509,
+              "dailyHandsCount": 7,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "13": {
+              "dailyPlayTime": 4835,
+              "dailyHandsCount": 100,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "16": {
+              "dailyPlayTime": 5378,
+              "dailyHandsCount": 116,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "17": {
+              "dailyPlayTime": 697,
+              "dailyHandsCount": 11,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "18": {
+              "dailyPlayTime": 16421,
+              "dailyHandsCount": 919,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf",
+                "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "22": {
+              "dailyPlayTime": 4756,
+              "dailyHandsCount": 84,
+              "dailyGamesCreated": [
+                "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x"
+              ],
+              "dailyGamesPlayed": [
+                "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+                "VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "27": {
+              "dailyPlayTime": 1050,
+              "dailyHandsCount": 17,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "28": {
+              "dailyPlayTime": 3822,
+              "dailyHandsCount": 79,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "30": {
+              "dailyPlayTime": 225,
+              "dailyHandsCount": 7,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "31": {
+              "dailyPlayTime": 571,
+              "dailyHandsCount": 10,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "32": {
+              "dailyPlayTime": 941,
+              "dailyHandsCount": 17,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "33": {
+              "dailyPlayTime": 5338,
+              "dailyHandsCount": 123,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "34": {
+              "dailyPlayTime": 2238,
+              "dailyHandsCount": 35,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "40": {
+              "dailyPlayTime": 2290,
+              "dailyHandsCount": 35,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "45": {
+              "dailyPlayTime": 3388,
+              "dailyHandsCount": 63,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "87": {
+              "dailyPlayTime": 1468,
+              "dailyHandsCount": 25,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "88": {
+              "dailyPlayTime": 4772,
+              "dailyHandsCount": 103,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "97": {
+              "dailyPlayTime": 84,
+              "dailyHandsCount": 2,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "98": {
+              "dailyPlayTime": 281,
+              "dailyHandsCount": 9,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "101": {
+              "dailyPlayTime": 5710,
+              "dailyHandsCount": 124,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "130": {
+              "dailyPlayTime": 1818,
+              "dailyHandsCount": 42,
+              "dailyGamesCreated": [
+                "1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+                "VGNzI153sqBBT6RQEe0slJzPMCnW89o1"
+              ],
+              "dailyGamesPlayed": [
+                "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x",
+                "1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1",
+                "VGNzI153sqBBT6RQEe0slJzPMCnW89o1",
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "171": {
+              "dailyPlayTime": 29178,
+              "dailyHandsCount": 1849,
+              "dailyGamesCreated": [
+                "T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y"
+              ],
+              "dailyGamesPlayed": [
+                "T_MEoyFImbYK63YKcWgmHfZuT6MUa72Y",
+                "T_mt6QPPmnI9fDrKIhj1oRSl9MT8lQO0",
+                "T_PUKzk1mRwMyNb9bDyFP9RxG6ldPqGK"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "354": {
+              "dailyPlayTime": 2772,
+              "dailyHandsCount": 47,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "T_5Lf4RIsubYPHjlq2sskSgBVm7srEBf"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.133Z"
+            },
+            "1Koc10jH2zazXu8": {
+              "dailyPlayTime": 21,
+              "dailyHandsCount": 2,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "DGxLcPP9u2Ch05KITpHJQmjf1Z4cfAKW"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "cJdv59a4TSy40HW": {
+              "dailyPlayTime": 66,
+              "dailyHandsCount": 4,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "x9Z3EWafDGvAkbImdxkRoNP25qRCzekv"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "OL23B8v4AqAqRZx": {
+              "dailyPlayTime": 209,
+              "dailyHandsCount": 5,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "euamrJj62uPpMrlZhJ9cCxOAEkDb1R9x"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "1sEr4V3QcLs896t": {
+              "dailyPlayTime": 37,
+              "dailyHandsCount": 2,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "1VuUAH0RxaXZ9BmV67hE3CU4GbIYjhL1"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "h8nO3682eq4Gmy2": {
+              "dailyPlayTime": 334,
+              "dailyHandsCount": 10,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "VGNzI153sqBBT6RQEe0slJzPMCnW89o1"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            },
+            "0At6YN93HalDNx1": {
+              "dailyPlayTime": 122,
+              "dailyHandsCount": 4,
+              "dailyGamesCreated": [],
+              "dailyGamesPlayed": [
+                "VGNzI153sqBBT6RQEe0slJzPMCnW89o1"
+              ],
+              "lastActiveAt": "2025-03-12T05:05:15.132Z"
+            }
+          },
+          "uniqueGuestPlayers": {},
+          "guestDau": [
+            "1Koc10jH2zazXu8",
+            "cJdv59a4TSy40HW",
+            "OL23B8v4AqAqRZx",
+            "1sEr4V3QcLs896t",
+            "h8nO3682eq4Gmy2",
+            "0At6YN93HalDNx1"
+          ]
+        }
+      ],
+      "summary_gameModeId": [
+        {
+          "dauByGameMode": {
+            "SitAndGo": 0,
+            "Tournament": 30,
+            "Ring": 6,
+            "AOF": 0,
+            "SpinAndGo": 0,
+            "SquidGame": 0,
+            "SevenDeuce": 3,
+            "PlayNow": 0
+          },
+          "canceledRooms": 0,
+          "notStartedRooms": 19,
+          "roomsStarted": 9,
+          "uniqueRoomCreators": [
+            "8",
+            "3",
+            "22",
+            "11",
+            "130",
+            "6",
+            "39",
+            "171",
+            "4",
+            "357",
+            "374"
+          ],
+          "totalParticipants": [
+            "1Koc10jH2zazXu8",
+            "3",
+            "3",
+            "cJdv59a4TSy40HW",
+            "22",
+            "130",
+            "OL23B8v4AqAqRZx",
+            "1sEr4V3QcLs896t",
+            "130",
+            "h8nO3682eq4Gmy2",
+            "130",
+            "0At6YN93HalDNx1",
+            "22",
+            "8",
+            "101",
+            "98",
+            "30",
+            "13",
+            "88",
+            "32",
+            "1",
+            "2",
+            "97",
+            "11",
+            "6",
+            "87",
+            "18",
+            "16",
+            "3",
+            "34",
+            "17",
+            "33",
+            "40",
+            "130",
+            "22",
+            "27",
+            "31",
+            "354",
+            "28",
+            "12",
+            "45",
+            "4",
+            "171",
+            "11",
+            "11",
+            "4",
+            "171",
+            "171",
+            "11",
+            "18",
+            "4"
+          ],
+          "uniqueParticipants": [
+            "1Koc10jH2zazXu8",
+            "3",
+            "cJdv59a4TSy40HW",
+            "22",
+            "130",
+            "OL23B8v4AqAqRZx",
+            "1sEr4V3QcLs896t",
+            "h8nO3682eq4Gmy2",
+            "0At6YN93HalDNx1",
+            "8",
+            "101",
+            "98",
+            "30",
+            "13",
+            "88",
+            "32",
+            "1",
+            "2",
+            "97",
+            "11",
+            "6",
+            "87",
+            "18",
+            "16",
+            "34",
+            "17",
+            "33",
+            "40",
+            "27",
+            "31",
+            "354",
+            "28",
+            "12",
+            "45",
+            "4",
+            "171"
+          ],
+          "uniqueTotalPlayTimeHours": 169337,
+          "uniqueAvgPlayTimeHours": 4703.805555555556,
+          "uniqueAvgHandsCount": 213.72222222222223,
+          "uniqueTotalHandsCount": 7694
+        }
+      ]
+    }
+  },
+  "userCount": {
+    "date": "2025-02-04T00:00:00.000Z",
+    "newUsers": 19,
+    "cumulativeUsers": 266
+  }
+}
